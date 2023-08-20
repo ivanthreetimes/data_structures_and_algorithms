@@ -1,2 +1,3 @@
 # data_structures_and_algorithms
-Data Structures and Algorithms with Python
+
+- Solved problems from "The Complete Data Structures and Algorithms Course in Python" at Udemy.
